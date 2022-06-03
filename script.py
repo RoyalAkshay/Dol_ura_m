@@ -2,11 +2,11 @@ class Script(object):
 
     START_MSG = """<b>Hey {},
 
-I'm Doluram 🖐🏻😛
+I'm Goluram 🖐🏻😛
 
 The Advanced Unlimited Filter Bot With Many Capabilities,
 
-Made By @RoyalKrrishna ❤️
+Made By @Akshay_Chand ❤️
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -40,15 +40,12 @@ See <i>/help</i> for commands and more details.</b>
 ➠ /info userid - Show User Information. Use '/info' as reply to some message for their details!
 
 
-<b>Made with ❤️ by ➜ <a href="https://t.me/RoyalKrrishna">Royal Krrishna</a></b>
+<b>Made with ❤️ by ➜ <a href="https://t.me/Akshay_Chand">Akshay Chand</a></b>
 """
 
 
     ABOUT_MSG = """
 <b><u>About Me:</u></b>
-🏷️ Bot : Doluram Bot 😛
-🏷️ Creator : <a href="https://t.me/RoyalKrrishna"><b>RoyalKrrishna</b></a>
-🏷️ Main Channel : <a href='https://t.me/iP_Movies'>iP Movies</a>
-
-📱 Feedback ➜ <a href="https://t.me/RoyalKrrishna"><b>Royal Krrishna</b></a>
+🏷️ Bot : Goluram Bot 😛
+🏷️ Creator : <a href="https://t.me/Akshay_Chand"><b>Akshay Chand</b></a>
 """
