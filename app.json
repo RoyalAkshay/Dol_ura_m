@@ -9,7 +9,7 @@
         "bee filter bot"
     ],
     "website": "https://telegram.dog/Dlaize",
-    "repository": "https://github.com/dakshkohli23/Unlimited-Filter-Bot",
+    "repository": "https://github.com/RoyalAkshay/Unlimited-Filter-Bot",
     "success_url": "https://telegram.dog/Dlaize",
     "env": {
         "WEBHOOK": {
